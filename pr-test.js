@@ -1,6 +1,8 @@
 var name;
-if (name === 'cho')
+if (name === 'cho' && age >= 33)
   {
+
     String.prototype.toUpperCase(name);
-    return +1;
-  }
+    return +2;
+>
+
