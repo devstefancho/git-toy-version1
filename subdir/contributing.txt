@@ -1,0 +1,7 @@
+what I don't want to send to this project
+
+1. test1.txt
+
+what I want to send
+
+1. subdir/app.txt
